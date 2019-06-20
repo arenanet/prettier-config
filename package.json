@@ -1,0 +1,19 @@
+{
+  "name": "prettier-config-arenanet",
+  "version": "1.0.0",
+  "description": "Prettier config for ArenaNet JS code.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "arenanet/prettier-config-arenanet"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arenanet/prettier-config-arenanet/issues"
+  }
+}
