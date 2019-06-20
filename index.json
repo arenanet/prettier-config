@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    
+    "tabWidth": 4,
+
+    "overrides": [
+        {
+            "files": ".dullfile",
+            "options": { "parser": "babel" }
+        }
+    ]
+}

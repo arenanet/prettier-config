@@ -8,7 +8,7 @@ Prettier config for ArenaNet JS code.
 > yarn add --dev @arenanet/prettier-config
 ```
 
-## Usage
+or
 
 In your `package.json`
 
